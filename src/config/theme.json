@@ -2,8 +2,8 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#1f58eb",
-        "secondary": "#BCD4FF",
+        "primary": "#12413F",
+        "secondary": "#BDAF94",
         "accent": "#E4EA8C",
         "body": "#fff",
         "border": "#E5E5E5",
@@ -11,9 +11,9 @@
         "theme_light": "#F9FBFF"
       },
       "text_color": {
-        "default": "#2E2E2E",
+        "default": "#12413F",
         "dark": "#000E30",
-        "light": "#565555"
+        "light": "#12413F"
       }
     }
   },
